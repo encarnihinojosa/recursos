@@ -1,5 +1,5 @@
 id,año,color,hex,R,G,B,C,M,Y,K,tono,saturación,luminosidad,familia color,temperatura,sensación,grado sensación*,,Leyenda grado sensación (de más calmado a más enérgico),
-1,2000,Cerulean,#98B4D4,152,180,212,28,15,0,17,211,40,72,Azul,Frío,Calmado/Confiable,1,,Calmado/Confiable,1
+1,2000,Cerulean,#98B4D4,2,180,212,28,15,0,17,211,40,72,Azul,Frío,Calmado/Confiable,1,,Calmado/Confiable,1
 2,2001,Fuchsia Rose,#C74375,199,67,117,0,66,41,22,337,54,52,Magenta,Neutral,Cálido/Alegre,4,,Neutral/Sofisticado,2
 3,2002,True Red,#BF1932,191,25,50,0,87,74,25,351,77,42,Rojo,Neutral,Apasionado/Atrevido,7,,Natural/Fresco,3
 4,2003,Aqua Sky,#7BC4C4,123,196,196,37,0,0,23,198,64,68,Azul,Frío,Calmado/Confiable,1,,Cálido/Alegre,4
