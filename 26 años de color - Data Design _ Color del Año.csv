@@ -1,0 +1,28 @@
+id,año,color,hex,R,G,B,C,M,Y,K,tono,saturación,luminosidad,familia color,temperatura,sensación,grado sensación*,,Leyenda grado sensación (de más calmado a más enérgico),
+1,2000,Cerulean,#98B4D4,152,180,212,28,15,0,17,211,40,72,Azul,Frío,Calmado/Confiable,1,,Calmado/Confiable,1
+2,2001,Fuchsia Rose,#C74375,199,67,117,0,66,41,22,337,54,52,Magenta,Neutral,Cálido/Alegre,4,,Neutral/Sofisticado,2
+3,2002,True Red,#BF1932,191,25,50,0,87,74,25,351,77,42,Rojo,Neutral,Apasionado/Atrevido,7,,Natural/Fresco,3
+4,2003,Aqua Sky,#7BC4C4,123,196,196,37,0,0,23,198,64,68,Azul,Frío,Calmado/Confiable,1,,Cálido/Alegre,4
+5,2004,Tigerlily,#E2583E,226,88,62,0,61,73,11,10,74,57,Rojo,Neutral,Vibrante/Energético,8,,Aireado/Ligero,5
+6,2005,Blue Turquoise,#53B0AE,83,176,174,53,0,1,31,179,37,51,Cián,Cálido,Calmado/Confiable,1,,Creativo/Misterioso,6
+7,2006,Sand Dollar,#DECDBE,222,205,190,0,8,14,13,28,33,81,Naranja,Neutral,Aireado/Ligero,5,,Apasionado/Atrevido,7
+8,2007,Chili Pepper,#9B1B30,155,27,48,0,83,69,39,350,70,36,Rojo,Neutral,Apasionado/Atrevido,7,,Vibrante/Energético,8
+9,2008,Blue Iris,#5A5B9F,90,91,159,43,43,0,38,239,28,49,Azul,Frío,Calmado/Confiable,1,,,
+10,2009,Mimosa,#EFC050,239,192,80,0,20,67,6,42,83,63,Naranja,Cálido,Vibrante/Energético,8,,,
+11,2010,Turquoise,#45B5AA,69,181,170,62,0,6,29,174,45,49,Cián,Cálido,Calmado/Confiable,1,,,
+12,2011,Honeysuckle,#D94F70,217,79,112,0,64,48,15,346,65,58,Rojo,Neutral,Cálido/Alegre,4,,,
+13,2012,Tangerine Tango,#DD4132,221,65,50,0,71,77,13,5,72,53,Rojo,Neutral,Vibrante/Energético,8,,,
+14,2013,Emerald,#009473,0,148,115,100,0,22,42,167,100,29,Cián,Cálido,Calmado/Confiable,1,,,
+15,2014,Radiant Orchid,#AD5E99,173,94,153,0,46,12,32,315,33,52,Magenta,Neutral,Creativo/Misterioso,6,,,
+16,2015,Marsala,#955251,149,82,81,0,45,46,42,1,30,45,Rojo,Neutral,Apasionado/Atrevido,7,,,
+17,2016,Rose Quartz,#F7CAC9,247,202,201,0,18,19,3,1,74,88,Rojo,Neutral,Aireado/Ligero,5,,,
+19,2017,Greenery,#88B04B,136,176,75,23,0,57,31,84,40,49,Verde,Cálido,Natural/Fresco,3,,,
+20,2018,Ultra Violet,#5F4B8B,95,75,139,32,46,0,45,259,30,42,Violeta,Frío,Calmado/Confiable,1,,,
+21,2019,Living Coral,#FF6F61,255,111,97,0,56,62,0,5,100,69,Rojo,Neutral,Vibrante/Energético,8,,,
+22,2020,Classic Blue,#0F4C81,15,76,129,88,41,0,49,208,79,28,Azul,Frío,Calmado/Confiable,1,,,
+24,2021,Illuminating,#F5DF4D,245,223,77,0,9,69,4,52,89,63,Amarillo,Cálido,Vibrante/Energético,8,,,
+25,2022,Very Peri,#6667AB,102,103,171,40,40,0,33,239,29,54,Azul,Frío,Calmado/Confiable,1,,,
+26,2023,Viva Magenta,#BB2649,187,38,73,0,80,61,27,346,66,44,Rojo,Neutral,Apasionado/Atrevido,7,,,
+27,2024,Peach Fuzz,#FFBE98,255,190,152,0,25,40,0,22,100,80,Naranja,Neutral,Vibrante/Energético,8,,,
+28,2025,Mocha Mousse,#A47764,164,119,100,0,27,39,36,18,26,52,Naranja,Neutral,Cálido/Alegre,4,,,
+29,2026,Cloud dancer,#F0EEE9,240,238,233,0,1,3,6,242,17,36,Amarillo,Frío,Neutral/Sofisticado,2,,,
